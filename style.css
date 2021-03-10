@@ -1,0 +1,157 @@
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+.header .nav{
+    padding: 20px 50px;
+    background-color: black;
+    color: #fff;
+    text-align: end;
+}
+
+.header .nav a {
+    color: #fff;
+    text-decoration: none;
+    margin-left: 50px;
+    font-size: 20px;
+}
+
+.header-text {
+    display: flex;
+}
+
+.header .text {
+    width: 50%;
+    text-align: center;
+    padding-top: 130px;
+
+}
+
+.header .text h2 {
+    font-size: 40px;
+
+}
+
+.header .text p{
+    font-size: 30px;
+}
+
+.header .image {
+    width: 50%;
+}
+
+.header .image img {
+    width: 80%;
+    height: 90vh;
+}
+
+
+.about {
+    padding-top: 100px;
+}
+
+.about h2 {
+    text-align: center;
+    font-size: 45px;
+}
+
+.about img {
+    margin: 0 auto;
+    display: block;
+}
+
+.about p {
+    text-align: center;
+    font-size: 23px;
+
+}
+
+.comp {
+    padding-top: 80px;
+}
+
+.comp .container {
+    width: 80%;
+    margin: 0 auto;
+    border: 1px solid salmon;
+}
+
+.comp h2 {
+    text-align: center;
+    font-size: 35px;
+}
+
+.comp .hard-skills {
+    text-decoration: none;
+    display: flex;
+    color: #fff;
+    background-color: brown;
+    padding: 12px;
+    font-size: 25px;
+    margin: 0;
+}
+
+.comp ul li {
+    list-style: none;
+    width: 25%;
+    text-align: center;
+
+}
+
+.comp .excel {
+    text-decoration: none;
+    display: flex;
+    color: #000;
+    background-color: salmon;
+    padding: 20px;
+    font-size: 25px;
+    margin: 0;
+}
+
+.comp .word {
+    text-decoration: none;
+    display: flex;
+    color: #000;
+    background-color: #fff;
+    padding: 20px;
+    font-size: 25px;
+    margin: 0;
+}
+
+.comp .point {
+    text-decoration: none;
+    display: flex;
+    color: #000;
+    background-color: salmon;
+    padding: 20px;
+    font-size: 25px;
+    margin: 0;
+}
+
+.comp .access {
+    text-decoration: none;
+    display: flex;
+    color: #000;
+    background-color: #fff;
+    padding: 20px;
+    font-size: 25px;
+    margin: 0;
+}
+
+.content {
+    text-align: center;
+    padding-top: 70px;
+} 
+
+.content h2{
+
+    font-size: 35px;
+}
+
+.content h4 {
+    font-size: 20px;
+
+}
